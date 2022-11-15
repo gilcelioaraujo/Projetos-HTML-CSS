@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+    text-decoration: none;
+    box-sizing: border-box;    
+}
+
+html,body{
+    height: 100%;  
+    overflow-x: hidden;
+    overflow-y: hidden;  
+}
+
+header {
+    height: 200px;
+    padding: 20px 0;
+}
+
+.center {
+    display: flex;
+    flex-wrap: wrap;
+    width: 180rem;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.logo img{
+    margin-right: -250px;
+    max-width:150px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+
+.logo{
+    padding-top: 0px;
+    width: 40%;
+    text-align: right;
+}
+.circle-image {
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    right: 650px;
+    width: 150px;
+    max-height: 150px;
+}
+
+.circle-image a{
+    right: 560px;
+    width: 150px;
+    max-height: 150px;
+    position: relative;
+    margin: 15px;
+    padding: 0 auto;
+    top: -80px;
+}
+
+.circle-image img{
+    border-radius: 50%;
+    width: 150px;
+    max-height: 150px;
+    top: -80px;
+    margin: 15px;
+
+}
+
+.circle-image p{
+    text-align: left;
+    margin-left: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    
+}
+
+.conjuntoGG {
+    position: absolute;
+    background-color: #0e030ae7;
+    height: 1100px;
+    width: 1100px;
+    border-radius: 50%;
+    right: -500px;
+    bottom: -60%;
+}
+
+.social-media {
+    position: absolute;
+    top: 150px;
+    right: 530px;
+}
+
+.social-media img{
+    display: block;
+    width: 30px;
+    margin: 20px 0;    
+}
+
+#face{
+    width: 30px;
+    right: 580px;
+    
+}
+
+
+
+.endereço{
+    position: absolute;
+    justify-content: flex-start;
+    margin-top: 200px;
+    bottom: 5%;
+    left: 1%;
+
+}
