@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -11,7 +10,7 @@
     <h1>Projeto Landing page</h1>
     <p>Landing page usando HTML e CSS</p>
     <p>Esse projeto é uma atividade da Instituição <a href="https://infinityschool.com.br/">Infinity School</a>
-     e Orientação do Professor Clerton Almeida.<a href="https://github.com/ClertonAlmeida">
-     <i class="fa fa-github" style="font-size:36px"></i></p></a>
+     e Orientação do Professor Clerton Almeida.<a href="https://github.com/ClertonAlmeida"><img src="https://github.com/gilcelioaraujo/Projetos-HTML-CSS/blob/main/imagens/icons8-github.svg" /></a>
+     <p>
 </body>
 </html>
