@@ -9,7 +9,6 @@
 </head>
 <body>
     <h1>Projeto Landing page</h1>
-    --------------------------------------------------------------------------------------------
     <p>Landing page usando HTML e CSS</p>
     <p>Esse projeto é uma atividade da Instituição <a href="https://infinityschool.com.br/">Infinity School</a>
      e Orientação do Professor Clerton Almeida.<a href="https://github.com/ClertonAlmeida">
